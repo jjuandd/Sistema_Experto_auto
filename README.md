@@ -1,2 +1,2 @@
 # Sistema_Experto_auto
-Auto fallando
+Juan Diego Ortiz Rosero
