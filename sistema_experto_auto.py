@@ -1,3 +1,5 @@
+#Juan Diego Ortiz Rosero
+
 def si_no(prompt):
     """Pregunta al usuario y normaliza respuestas sí/no (s/n)."""
     while True:
